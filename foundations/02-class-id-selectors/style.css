@@ -1,0 +1,19 @@
+p{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#deux{
+    color: blue;
+    font-size: 36px;
+}
+
+.trois{
+    font-size: 24px;
+}
+
+#quatre{ 
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
