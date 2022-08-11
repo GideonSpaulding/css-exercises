@@ -1,0 +1,12 @@
+/* This is for descending subsets (the text class found within a parent with the container class)*/
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* This is for a shared class in one element that declares both the text AND test class */
+.text.test{
+    color: aqua;
+}
